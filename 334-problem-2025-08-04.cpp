@@ -12,10 +12,7 @@ Write a function that plays the 24 game.*/
 // std::array<int, 4> numbers = {5, 2, 7, 8}; TESTING FIRST CASE
 
 bool canReach24(std::array<int, 4> numbers) {
-    if((numbers[0] * numbers[1] - numbers[2]) * numbers[3] == 24)
-        return true;
-    else
-        return false; 
+    return((numbers[0] * numbers[1] - numbers[2]) * numbers[3] == 24);
 }
 
 int main() {
