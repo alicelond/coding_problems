@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/334-problem-2025-08-04.dir/334-problem-2025-08-04.cpp.o -o bin/334-problem-2025-08-04 
