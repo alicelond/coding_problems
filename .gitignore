@@ -1,0 +1,24 @@
+# Build directories
+build/
+bin/
+
+# Compiled executables
+*.exe
+*.out
+*.app
+
+# CMake generated files (if built in source)
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
