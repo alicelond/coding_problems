@@ -15,6 +15,7 @@ Difficulty chart:
 | Problem Statement | Difficulty | Solution |
 | ----------------- | :--------: | -------- |
 | Counting pairs that satisfy XOR condition | 🟩 | [problem-332.cpp](https://github.com/alicelond/daily_coding_problems/blob/main/332-challenge-2025-08-03.cpp) |
+| 24 game | 🟩 | [problem-334.cpp](https://github.com/alicelond/daily_coding_problems/blob/main/334-problem-2025-08-04.cpp) |
 
 ### Let's connect!
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alice-becker-londero/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alice.londero@gmail.com?subject=Hello!)
