@@ -1,7 +1,7 @@
 # Daily coding challenges
 A collection of coding challenges to practice datastructures, algorithms and syntax from different programming languages.
 
-The exercises are from [Daily coding problems](https://www.dailycodingproblem.com/).
+The exercises are from [Daily coding problems](https://www.dailycodingproblem.com/) and [Leetcode](https://leetcode.com/).
 
 
 ### ⚡ List of solved problems
@@ -16,6 +16,18 @@ Difficulty chart:
 | ----------------- | :--------: | -------- |
 | Counting pairs that satisfy XOR condition | 🟩 | [problem-332.cpp](https://github.com/alicelond/daily_coding_problems/blob/main/332-challenge-2025-08-03.cpp) |
 | 24 game | 🟩 | [problem-334.cpp](https://github.com/alicelond/daily_coding_problems/blob/main/334-problem-2025-08-04.cpp) |
+| Two sum | 🟩 | [problem-1.cpp](https://github.com/alicelond/daily_coding_problems/blob/main/1-problem-2025-08-09.cpp) |
+
+
+### Running a problem
+Go to build folder
+`cd /daily_coding_problems/buuild`
+Run `cmake`
+`cmake ..`
+Build files
+`build`
+Running the executable
+`./build/name_of_executable`  
 
 ### Let's connect!
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alice-becker-londero/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alice.londero@gmail.com?subject=Hello!)
