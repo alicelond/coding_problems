@@ -22,10 +22,13 @@ Difficulty chart:
 ### Running a problem
 Go to build folder
 `cd /daily_coding_problems/buuild`
+
 Run `cmake`
 `cmake ..`
+
 Build files
 `build`
+
 Running the executable
 `./build/name_of_executable`  
 
