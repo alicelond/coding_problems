@@ -1,4 +1,4 @@
-# Daily coding challenges
+# Coding challenges
 A collection of coding challenges to practice datastructures, algorithms and syntax from different programming languages.
 
 The exercises are from [Daily coding problems](https://www.dailycodingproblem.com/) and [Leetcode](https://leetcode.com/).
@@ -21,12 +21,15 @@ Difficulty chart:
 
 ### Running a problem
 Go to build folder
+
 `cd /daily_coding_problems/buuild`
 
 Run `cmake`
+
 `cmake ..`
 
 Build files
+
 `build`
 
 Running the executable
