@@ -22,7 +22,7 @@ Difficulty chart:
 ### Running a problem
 Go to build folder
 
-`cd /daily_coding_problems/buuild`
+`cd /coding_problems/build`
 
 Run `cmake`
 
