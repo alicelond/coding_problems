@@ -18,3 +18,7 @@ Output: "ffffffff"
 
 Constraints:
 -2^31 <= num <= 2^31 - 1*/
+#include <iostream>
+int main(){
+    return 0;
+}

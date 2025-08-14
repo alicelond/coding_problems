@@ -12,7 +12,7 @@ find_package(GTest REQUIRED)
 include_directories(${GTEST_INCLUDE_DIRS})
 
 # Find all .cpp files in the current directory
-file(GLOB CPP_FILES "*.cpp")
+file(GLOB CPP_FILES "problems/*.cpp")
 
 # Create executables for each .cpp file
 foreach(cpp_file ${CPP_FILES})

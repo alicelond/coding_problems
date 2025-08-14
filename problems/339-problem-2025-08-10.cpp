@@ -6,16 +6,6 @@ For example, given [20, 303, 3, 4, 25] and k = 49, return true as 20 + 4 + 25 = 
 #include<vector>
 
 int main(){
-    std::vector<int> array;
-    std::int k;
-
-    std::cout << "Enter the value of k: ";
-    std::cin >> k;
-    std::cout << "Enter the elements of the array: ";
-    std::cin >> array;
-
-    
-
 
     return 0;
 }
