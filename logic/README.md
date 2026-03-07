@@ -1,5 +1,13 @@
 # Logic problems
 This folder contains solved logic problems from different sets of difficulties using Python. The problems were extracted from [DSA Tutorial](https://www.geeksforgeeks.org/dsa/logic-building-problems/).
 
+The problems use `unittest` to test edge cases and can have more than one solution, if applicable. 
+
+### ⚡ List of solved problems
+| Problem Statement |  Solution |
+| ----------------- |  -------- |
+| Check even or odd | [Naive version](https://github.com/alicelond/coding_problems/blob/main/logic/basic/naive_even_odd.py) and [Efficient version](https://github.com/alicelond/coding_problems/blob/main/logic/basic/efficient_even_odd.py) |
+| Multiplication table | [Iterative version](https://github.com/alicelond/coding_problems/blob/main/logic/basic/iterative_multiplication_table.py) and [Recursive version](https://github.com/alicelond/coding_problems/blob/main/logic/basic/recursive_multiplication_table.py)|
+
 ### Let's connect!
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alice-becker-londero/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alice.londero@gmail.com?subject=Hello!)
