@@ -9,6 +9,7 @@ The problems use `unittest` to test edge cases and can have more than one soluti
 | Check even or odd | [Naive version](https://github.com/alicelond/coding_problems/blob/main/logic/basic/naive_even_odd.py) and [Efficient version](https://github.com/alicelond/coding_problems/blob/main/logic/basic/efficient_even_odd.py) |
 | Multiplication table | [Iterative version](https://github.com/alicelond/coding_problems/blob/main/logic/basic/iterative_multiplication_table.py) and [Recursive version](https://github.com/alicelond/coding_problems/blob/main/logic/basic/recursive_multiplication_table.py)|
 | Sum natural | [Naive version](https://github.com/alicelond/coding_problems/blob/main/logic/basic/naive_sum_natural.py) and [Recursive version](https://github.com/alicelond/coding_problems/blob/main/logic/basic/recursive_sum_natural.py) and [Efficient version](https://github.com/alicelond/coding_problems/blob/main/logic/basic/efficient_sum_natural.py) |
+| Sum of squares | [Naive version](https://github.com/alicelond/coding_problems/blob/main/logic/basic/naive_sum_squares.py) and [Efficient version](https://github.com/alicelond/coding_problems/blob/main/logic/basic/efficient_sum_squares.py) |
 
 ### Let's connect!
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alice-becker-londero/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alice.londero@gmail.com?subject=Hello!)
