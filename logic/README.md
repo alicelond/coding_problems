@@ -11,7 +11,7 @@ The problems use `unittest` to test edge cases and can have more than one soluti
 | Sum natural | [Naive version](https://github.com/alicelond/coding_problems/blob/main/logic/basic/naive_sum_natural.py) and [Recursive version](https://github.com/alicelond/coding_problems/blob/main/logic/basic/recursive_sum_natural.py) and [Efficient version](https://github.com/alicelond/coding_problems/blob/main/logic/basic/efficient_sum_natural.py) |
 | Sum of squares | [Naive version](https://github.com/alicelond/coding_problems/blob/main/logic/basic/naive_sum_squares.py) and [Efficient version](https://github.com/alicelond/coding_problems/blob/main/logic/basic/efficient_sum_squares.py) |
 | Swap numbers | [Built in version](https://github.com/alicelond/coding_problems/blob/main/logic/basic/swap_numbers.py) and [Efficient version](https://github.com/alicelond/coding_problems/blob/main/logic/basic/efficient_swap_numbers.py) |
-| Closest number | [Naive version](https://github.com/alicelond/coding_problems/blob/main/logic/basic/naive_closest_number.py) |
+| Closest number | [Naive version](https://github.com/alicelond/coding_problems/blob/main/logic/basic/naive_closest_number.py) and [Efficient version](https://github.com/alicelond/coding_problems/blob/main/logic/basic/efficient_closest_number.py)|
 
 ### Let's connect!
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alice-becker-londero/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alice.londero@gmail.com?subject=Hello!)
