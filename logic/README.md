@@ -15,6 +15,7 @@ The problems use `unittest` to test edge cases and can have more than one soluti
 | Dice problem | [Version](https://github.com/alicelond/coding_problems/blob/main/logic/basic/dice_problem.py)|
 | Sum of digits | [Version](https://github.com/alicelond/coding_problems/blob/main/logic/easy/sum_digits.py)|
 | Reverse digits | [Version](https://github.com/alicelond/coding_problems/blob/main/logic/easy/reverse_digits.py)|
+| Prime test | [Version](https://github.com/alicelond/coding_problems/blob/main/logic/easy/prime_test.py)|
 
 ### Let's connect!
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alice-becker-londero/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alice.londero@gmail.com?subject=Hello!)
